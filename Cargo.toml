@@ -1,0 +1,14 @@
+[package]
+name = "advent_of_code_2023"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name ="day1-puzzle1"
+path="src/day1_puzzle1/main.rs"
+
+[[bin]]
+name ="day1-puzzle2"
+path="src/day1_puzzle2/main.rs"
